@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Sayfanın kenarlarını temizle */
+    background-color: #f0f0f0; /* Arka plan rengi */
+}
+
+canvas {
+    display: block; /* Canvas'ı tam ekran yapmak için */
+}
